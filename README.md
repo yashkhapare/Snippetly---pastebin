@@ -51,6 +51,19 @@ With features like snippet expiration, clean UI, and easy sharing, Snippetly pro
 * View Snippet Page: Displays shared snippet
 
 * About Page: Information about the project
+
+---
+
+## 📸 Screenshots
+- *Home Page*
+![image alt](https://github.com/yashkhapare/Snippetly---pastebin/blob/5a721ce6c930a5b55a0af4158b258f94ac832443/snip_main_page.png)
+
+- *Dropper Page*
+![image alt](snip_droper_page.png))
+
+- *About Page*
+![image alt](snip_About_page.png)
+---
   
 ## Conclusion
 
